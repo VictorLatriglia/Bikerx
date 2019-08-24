@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Bikerx.Models.Ciclista
 {
+    /// <summary>
+    /// Clase para ciclistas
+    /// </summary>
     public class Ciclista : EntityBase<int>
     {
         //Propiedades
